@@ -45,7 +45,7 @@ To set up your development environment, follow these steps:
     ```
 
     - `SLICE_EXTENSION_PATH`: Path to your local Slice Chrome Extension.
-    - `TOTAL_DURATION`: The total duration (in seconds) the script will run.
+    - `TOTAL_DURATION`: The total duration (in minutes) the script will run. Default value is 30 min.
     - `USER_AGENT`: User agent string for the browser instance.
 
 ### Running the script
