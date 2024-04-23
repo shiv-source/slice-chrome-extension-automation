@@ -58,7 +58,7 @@ pnpm start
 
 ## Note
 
-- `TOTAL_DURATION` indicates the script's execution time in seconds. Adjust as necessary depending on how long you want the automation to run.
+- `TOTAL_DURATION` indicates the script's execution time in minutes. Adjust as necessary depending on how long you want the automation to run.
 - Verify the accuracy of `.env` values to prevent runtime errors.
 
 ## Contributing
