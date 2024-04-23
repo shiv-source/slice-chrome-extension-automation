@@ -1,0 +1,38 @@
+{
+    "name": "slice-chrome-extension-automation",
+    "version": "1.0.0",
+    "description": "This project automates the viewing of advertisements through the Slice Chrome Extension. It is designed to view ads on your behalf, and credits for viewing these ads will be automatically added to your Slice account. You can monitor these credits through the Slice extension app.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Shiv Kumar",
+        "url": "https://shivkumar.me/",
+        "email": "hello@shivkumar.me"
+    },
+    "keywords": [
+        "slice-chrome-extension-automation",
+        "puppeteer",
+        "automation",
+        "nodejs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shiv-source/slice-chrome-extension-automation.git"
+    },
+    "bugs": {
+        "url": "https://github.com/shiv-source/slice-chrome-extension-automation/issues"
+    },
+    "homepage": "https://github.com/shiv-source/slice-chrome-extension-automation#readme",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "puppeteer-extra": "^3.3.6",
+        "puppeteer-extra-plugin-stealth": "^2.11.2"
+    },
+    "devDependencies": {
+        "prettier": "^3.2.5"
+    }
+}
