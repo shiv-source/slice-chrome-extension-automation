@@ -4,6 +4,11 @@ This project automates the viewing of advertisements through the Slice Chrome Ex
 
 **Note: This project is intended for educational purposes and fun only.**
 
+## Demo
+
+![Demo of Slice Chrome Extension Automation](./demo.gif)
+
+
 ## Getting Started
 
 These instructions will guide you through setting up and running the project on your local machine for both development and testing purposes.
